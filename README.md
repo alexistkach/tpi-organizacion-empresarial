@@ -28,3 +28,8 @@ El sistema busca registrar ventas, actualizar automáticamente el inventario y g
 ## Uso de IA
 
 Se utilizó Microsoft Copilot como herramienta de apoyo para la organización de contenidos y revisión documental.
+
+## Estructura del repositorio
+
+La documentación se encuentra organizada por entregas.
+
